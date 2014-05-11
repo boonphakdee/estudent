@@ -1,6 +1,5 @@
 <?php
-  echo " Hello";
-try {
+ try {
     //Register an autoloader
     $loader = new \Phalcon\Loader();
     $loader->registerDirs(array(
