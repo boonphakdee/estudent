@@ -1,5 +1,4 @@
 <?php
-  echo " Hello";
 try {
     //Register an autoloader
     $loader = new \Phalcon\Loader();
